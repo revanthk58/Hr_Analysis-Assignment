@@ -38,6 +38,7 @@ The dashboard helps organizations understand:
 
 ### Visualization Used:
 - Clustered Column Chart
+  ![Clustered Column Chart]()
 
 ---
 
