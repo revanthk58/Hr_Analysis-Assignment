@@ -1,7 +1,7 @@
-# Employee Analytics Dashboard 📊
+# HR Analytics Dashboard 📊
 
 ## Project Overview
-This project is an **HR Employee Analytics Dashboard** created using **Power BI** to analyze employee demographics, department performance, salary distribution, and workforce insights.
+This project is an **HR Analytics Dashboard** created using **Power BI** to analyze employee demographics, department performance, salary distribution, and workforce insights.
 
 The dashboard helps organizations understand:
 - Gender distribution
@@ -15,7 +15,7 @@ The dashboard helps organizations understand:
 
 # Dashboard Preview
 
-![Dashboard Preview](Screenshot%202026-05-24%20205439.png)
+![Dashboard Preview] 
 
 ---
 
