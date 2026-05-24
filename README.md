@@ -38,7 +38,7 @@ The dashboard helps organizations understand:
 
 ### Visualization Used:
 - Clustered Column Chart
-  ![Clustered Column Chart]()
+  ![Clustered Column Chart](https://github.com/revanthk58/Hr_Analysis-Assignment/blob/main/Screenshots/Screenshot%202026-05-24%20220212.png)
 
 ---
 
@@ -49,7 +49,7 @@ The dashboard helps organizations understand:
 
 ### Visualization Used:
 - Pie Chart
-
+![Pie chart](https://github.com/revanthk58/Hr_Analysis-Assignment/blob/main/Screenshots/Screenshot%202026-05-24%20220232.png)
 ---
 
 ## 3. Sum of Monthly Income by Department
@@ -60,6 +60,7 @@ The dashboard helps organizations understand:
 
 ### Visualization Used:
 - Funnel Chart
+- ![Funnel](https://github.com/revanthk58/Hr_Analysis-Assignment/blob/main/Screenshots/Screenshot%202026-05-24%20220247.png)
 
 ---
 
@@ -70,6 +71,7 @@ The dashboard helps organizations understand:
 
 ### Visualization Used:
 - Donut Chart
+- ![donut chart](https://github.com/revanthk58/Hr_Analysis-Assignment/blob/main/Screenshots/Screenshot%202026-05-24%20220302.png)
 
 ---
 
@@ -80,6 +82,7 @@ The dashboard helps organizations understand:
 
 ### Visualization Used:
 - Bar Chart
+- ![bar chart](https://github.com/revanthk58/Hr_Analysis-Assignment/blob/main/Screenshots/Screenshot%202026-05-24%20220315.png)
 
 ---
 
