@@ -15,7 +15,7 @@ The dashboard helps organizations understand:
 
 # Dashboard Preview
 
-![Dashboard Preview](https://github.com/revanthk58/Hr_Analysis-Assignment/blob/main/Screenshot%202026-05-24%20205439.png)
+!https://github.com/revanthk58/Hr_Analysis-Assignment/blob/main/Screenshot%202026-05-24%20205439.png
 
 ---
 
@@ -25,8 +25,6 @@ The dashboard helps organizations understand:
 - Excel / CSV Dataset
 - Data Cleaning
 - Data Visualization
-- DAX Measures
-- Interactive Filters
 
 ---
 
@@ -110,7 +108,6 @@ Through this project, I learned:
 - Data cleaning and transformation
 - Building interactive dashboards
 - Creating meaningful visualizations
-- Using DAX calculations
 - Extracting business insights from raw data
 - Dashboard design best practices
 
