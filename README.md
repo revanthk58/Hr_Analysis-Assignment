@@ -135,11 +135,10 @@ Through this project, I learned:
 # Repository Structure
 
 ```text
-├── Dataset/
-├── Dashboard/
-├── Screenshots/
+├── Dataset
+├── Screenshots
 ├── README.md
-└── Employee_Analytics.pbix
+└── HR_Analytics.pbix
 ```
 
 ---
