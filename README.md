@@ -15,7 +15,7 @@ The dashboard helps organizations understand:
 
 # Dashboard Preview
 
-!https://github.com/revanthk58/Hr_Analysis-Assignment/blob/main/Screenshot%202026-05-24%20205439.png
+![https://github.com/revanthk58/Hr_Analysis-Assignment/blob/main/Dashboard_pic.png]
 
 ---
 
